@@ -125,7 +125,7 @@
               "name": "home",
               "family": "Mobirise2",
               "link": "http://cardinalbuildersinc.com",
-              "size": 0,
+              "size": "52",
               "newWindow": false,
               "color": "#e25041",
               "active": true
@@ -288,7 +288,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "http://cardinalbuildersinc.com",
-              "size": 0,
+              "size": "52",
               "linkInNewWindow": false,
               "name": "home",
               "family": "Mobirise2",
@@ -393,7 +393,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "http://cardinalbuildersinc.com",
-              "size": 0,
+              "size": "52",
               "linkInNewWindow": false,
               "name": "home",
               "family": "Mobirise2",
@@ -578,7 +578,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "http://cardinalbuildersinc.com",
-              "size": 0,
+              "size": "52",
               "active": true,
               "linkInNewWindow": false,
               "name": "home",
