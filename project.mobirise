@@ -149,7 +149,7 @@
             "timeout": "5",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/1009907114-1440x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1009907114h-1440x960.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
