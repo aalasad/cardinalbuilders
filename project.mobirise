@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Cardinal Builders",
-    "currentPage": "aboutus.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -149,7 +149,7 @@
             "paddingBottom": 3,
             "showBullets": true,
             "bgColor": "#fff",
-            "timeout": "5",
+            "timeout": "8",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/1009907114h-1440x960.jpg",
@@ -771,7 +771,7 @@
           },
           "title": "CONTACT FORM",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
             "action": "aalasad@gmail.com",
             "alerts": {
