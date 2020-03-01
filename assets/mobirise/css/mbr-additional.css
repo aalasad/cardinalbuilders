@@ -476,11 +476,11 @@ section.form .container {
   color: #ffffff;
 }
 #menu-c .link {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
 }
 #menu-c .dropdown-item,
 #menu-c .nav-dropdown-sm .link {
-  font-size: 1.354rem;
+  font-size: 1.624rem;
 }
 #menu-c .link:hover,
 #menu-c .dropdown-item:hover,
@@ -519,6 +519,9 @@ section.form .container {
 #menu-c .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#menu-c A {
+  font-size: 14px;
+}
 
 #menu-g .hide-buttons .nav-btn {
   display: none !important;
@@ -540,11 +543,11 @@ section.form .container {
   color: #ffffff;
 }
 #menu-g .link {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
 }
 #menu-g .dropdown-item,
 #menu-g .nav-dropdown-sm .link {
-  font-size: 1.354rem;
+  font-size: 1.624rem;
 }
 #menu-g .link:hover,
 #menu-g .dropdown-item:hover,
@@ -607,11 +610,11 @@ section.form .container {
   color: #ffffff;
 }
 #menu-f .link {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
 }
 #menu-f .dropdown-item,
 #menu-f .nav-dropdown-sm .link {
-  font-size: 1.354rem;
+  font-size: 1.624rem;
 }
 #menu-f .link:hover,
 #menu-f .dropdown-item:hover,
@@ -650,6 +653,23 @@ section.form .container {
 #menu-f .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#menu-f A {
+  font-size: 14px;
+}
+#testimonials3-x .mbr-section-title {
+  color: #efefef;
+}
+#testimonials3-x .mbr-author-name {
+  color: #ccc;
+}
+#social-buttons4-12 .mbr-section-title,
+#social-buttons4-12 .btn-social {
+  color: #fff;
+}
+#social-buttons4-12 .btn-social > * {
+  vertical-align: middle;
+  padding-right: 0;
+}
 
 #menu-e .hide-buttons .nav-btn {
   display: none !important;
@@ -671,11 +691,11 @@ section.form .container {
   color: #ffffff;
 }
 #menu-e .link {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
 }
 #menu-e .dropdown-item,
 #menu-e .nav-dropdown-sm .link {
-  font-size: 1.354rem;
+  font-size: 1.624rem;
 }
 #menu-e .link:hover,
 #menu-e .dropdown-item:hover,
@@ -714,6 +734,20 @@ section.form .container {
 #menu-e .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#menu-e A {
+  font-size: 14px;
+}
+#form1-j .form-control-label {
+  color: #232323;
+}
+#social-buttons4-y .mbr-section-title,
+#social-buttons4-y .btn-social {
+  color: #fff;
+}
+#social-buttons4-y .btn-social > * {
+  vertical-align: middle;
+  padding-right: 0;
+}
 
 #menu-9 .hide-buttons .nav-btn {
   display: none !important;
@@ -735,11 +769,11 @@ section.form .container {
   color: #ffffff;
 }
 #menu-9 .link {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
 }
 #menu-9 .dropdown-item,
 #menu-9 .nav-dropdown-sm .link {
-  font-size: 1.354rem;
+  font-size: 1.624rem;
 }
 #menu-9 .link:hover,
 #menu-9 .dropdown-item:hover,
@@ -781,11 +815,11 @@ section.form .container {
 #menu-9 A {
   font-size: 14px;
 }
-#testimonials3-a .mbr-section-title {
-  color: #efefef;
+#header6-q .mbr-section-title {
+  color: #28262b;
 }
-#testimonials3-a .mbr-author-name {
-  color: #ccc;
+#header6-q .mbr-section-text {
+  color: #565656;
 }
 
 #menu-8 .hide-buttons .nav-btn {
@@ -808,11 +842,11 @@ section.form .container {
   color: #ffffff;
 }
 #menu-8 .link {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
 }
 #menu-8 .dropdown-item,
 #menu-8 .nav-dropdown-sm .link {
-  font-size: 1.354rem;
+  font-size: 1.624rem;
 }
 #menu-8 .link:hover,
 #menu-8 .dropdown-item:hover,
@@ -853,4 +887,8 @@ section.form .container {
 }
 #menu-8 A {
   font-size: 14px;
+}
+#msg-box6-w h3,
+#msg-box6-w p {
+  color: #fff;
 }
